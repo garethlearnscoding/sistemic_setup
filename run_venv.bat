@@ -1,3 +1,3 @@
 @echo off
-call myenv\Scripts\activate
+call venv-sistemic-setup\Scripts\activate
 pause
